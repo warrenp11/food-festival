@@ -8,7 +8,7 @@ The current module project uses an older version of Bootstrap. You'll need to in
 - [x] 19.1.4: Deploy the App to GitHub Pages
 - [x] 19.1.5: Investigate Performance Issues
 - [x] 19.1.6: Run a Lighthouse Audit
-- [] 19.1.7: Optimize Files and Assets
+- [x] 19.1.7: Optimize Files and Assets
 - [] 19.1.8: Deploy the Optimized Application
 - [] 19.1.9: Reflection
 
