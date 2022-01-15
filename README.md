@@ -9,8 +9,8 @@ The current module project uses an older version of Bootstrap. You'll need to in
 - [x] 19.1.5: Investigate Performance Issues
 - [x] 19.1.6: Run a Lighthouse Audit
 - [x] 19.1.7: Optimize Files and Assets
-- [] 19.1.8: Deploy the Optimized Application
-- [] 19.1.9: Reflection
+- [x] 19.1.8: Deploy the Optimized Application
+- [x] 19.1.9: Reflection
 
 - [] 19.2.1: Introduction
 - [] 19.2.2: Preview
