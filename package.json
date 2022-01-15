@@ -1,0 +1,28 @@
+{
+  "name": "food-festival",
+  "version": "1.0.0",
+  "description": "The current module project uses an older version of Bootstrap. You'll need to install Bootstrap 4.3.1 using the following command: `npm install Bootstrap@4.3.1 -- save`. You should also install Popper 1.16.0 using `npm install popper@1.16.0 -- save`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/warrenp11/food-festival.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/warrenp11/food-festival/issues"
+  },
+  "homepage": "https://github.com/warrenp11/food-festival#readme",
+  "devDependencies": {
+    "webpack": "^4.46.0",
+    "webpack-cli": "^4.6.0"
+  },
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "save": "^2.4.0"
+  }
+}

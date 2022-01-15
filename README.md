@@ -12,9 +12,9 @@ The current module project uses an older version of Bootstrap. You'll need to in
 - [x] 19.1.8: Deploy the Optimized Application
 - [x] 19.1.9: Reflection
 
-- [] 19.2.1: Introduction
-- [] 19.2.2: Preview
-- [] 19.2.3: Install webpack and webpack-cli
+- [x] 19.2.1: Introduction
+- [x] 19.2.2: Preview
+- [x] 19.2.3: Install webpack and webpack-cli
 - [] 19.2.4: Set Up webpack
 - [] 19.2.5: Run webpack and Fix Errors
 - [] 19.2.6: Run a Lighthouse Audit
