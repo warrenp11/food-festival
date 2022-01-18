@@ -17,11 +17,11 @@ The current module project uses an older version of Bootstrap. You'll need to in
 * [x] 19.2.3: Install webpack and webpack*cli
 * [x] 19.2.4: Set Up webpack
 * [x] 19.2.5: Run webpack and Fix Errors
-* [] 19.2.6: Run a Lighthouse Audit
-* [] 19.2.7: Reflection
+* [x] 19.2.6: Run a Lighthouse Audit
+* [x] 19.2.7: Reflection
 
-* [] 19.3.1: Introduction
-* [] 19.3.2: Preview
+* [x] 19.3.1: Introduction
+* [x] 19.3.2: Preview
 * [] 19.3.3: Analyze Browser Resource Allocation
 * [] 19.3.4: Code Split the App to Separate Concerns
 * [] 19.3.5: Add Multiple Entry Points to webpack's Configuration

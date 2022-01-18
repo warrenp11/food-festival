@@ -2,6 +2,7 @@
 //
 const path = require("path");
 const webpack = require("webpack");
+const BundleAnalyzerPlugin = require("webpack-bundle-analyzer").BundleAnalyzerPlugin;
 
 // For a basic configuration, we need to provide webpack with three properties: entry, output, and mode
 module.exports = {
@@ -17,6 +18,9 @@ module.exports = {
       $: "jquery",
       jQuery: "jquery"
     }),
+    new BundleAnalyzerPlugin({
+      analyzerMode: "static", // the report outputs an HTML file in the dist folder
+    })
   ],
   mode: "development",
 };
