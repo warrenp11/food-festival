@@ -4,7 +4,8 @@
   "description": "The current module project uses an older version of Bootstrap. You'll need to install Bootstrap 4.3.1 using the following command: `npm install Bootstrap@4.3.1 -- save`. You should also install Popper 1.16.0 using `npm install popper@1.16.0 -- save`",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "webpack": "webpack --watch",
+    "build": "webpack"
   },
   "repository": {
     "type": "git",
