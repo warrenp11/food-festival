@@ -15,7 +15,7 @@ module.exports = {
     tickets: "./assets/js/tickets.js",
   },
   output: {
-    filename: "main.bundle.js",
+    filename: "[name].bundle.js", // name of each attribute in the entry object will be used in place of [name]
     path: __dirname + "/dist",
   },
   plugins: [
