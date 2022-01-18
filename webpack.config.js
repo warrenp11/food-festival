@@ -1,6 +1,7 @@
 // blueprint for the way webpack should behave within our project
-
+//
 const path = require("path");
+const webpack = require("webpack");
 
 // For a basic configuration, we need to provide webpack with three properties: entry, output, and mode
 module.exports = {
@@ -10,5 +11,12 @@ module.exports = {
     path: path.resolve(__dirname, "dist"),
     filename: "main.bundle.js",
   },
+  plugins: [
+    // tell webpack which plugin we want to use
+    new webpack.ProvidePlugin({
+      $: "jquery",
+      jQuery: "jquery"
+    }),
+  ],
   mode: "development",
 };
