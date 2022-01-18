@@ -24,7 +24,7 @@ The current module project uses an older version of Bootstrap. You'll need to in
 * [x] 19.3.2: Preview
 * [x] 19.3.3: Analyze Browser Resource Allocation
 * [x] 19.3.4: Code Split the App to Separate Concerns
-* [] 19.3.5: Add Multiple Entry Points to webpack's Configuration
+* [x] 19.3.5: Add Multiple Entry Points to webpack's Configuration
 * [] 19.3.6: Optimize Images with webpack
 * [] 19.3.7: Reflection
 

@@ -18,6 +18,18 @@ module.exports = {
     filename: "[name].bundle.js", // name of each attribute in the entry object will be used in place of [name]
     path: __dirname + "/dist",
   },
+  module: {
+    rules: [
+      {
+        test: /\.jspg$/i,
+        use: [
+          {
+            loader: "file-loader",
+          },
+        ],
+      },
+    ],
+  },
   plugins: [
     // tell webpack which plugin we want to use
     new webpack.ProvidePlugin({
