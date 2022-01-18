@@ -15,7 +15,7 @@ The current module project uses an older version of Bootstrap. You'll need to in
 - [x] 19.2.1: Introduction
 - [x] 19.2.2: Preview
 - [x] 19.2.3: Install webpack and webpack-cli
-- [] 19.2.4: Set Up webpack
+- [x] 19.2.4: Set Up webpack
 - [] 19.2.5: Run webpack and Fix Errors
 - [] 19.2.6: Run a Lighthouse Audit
 - [] 19.2.7: Reflection
