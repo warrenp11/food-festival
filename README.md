@@ -25,11 +25,11 @@ The current module project uses an older version of Bootstrap. You'll need to in
 * [x] 19.3.3: Analyze Browser Resource Allocation
 * [x] 19.3.4: Code Split the App to Separate Concerns
 * [x] 19.3.5: Add Multiple Entry Points to webpack's Configuration
-* [] 19.3.6: Optimize Images with webpack (npm install image-webpack-loader)
-* [] 19.3.7: Reflection 
+* [x] 19.3.6: Optimize Images with webpack (npm install image-webpack-loader)
+* [x] 19.3.7: Reflection 
 
-* [] 19.4.1: Introduction
-* [] 19.4.2: Preview
+* [x] 19.4.1: Introduction
+* [x] 19.4.2: Preview
 * [] 19.4.3: Introduction to Service Workers
 * [] 19.4.4: Register the Service Worker
 * [] 19.4.5: Install the Service Worker
